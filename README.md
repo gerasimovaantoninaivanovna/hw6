@@ -10,8 +10,22 @@
 
 ![Скриншот](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(4).png)
 
-###### Часть 1
-
+##### Часть 1
+№1
 ![Скриншот к 1 заданию](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(2).png)
-
+№2
 ![Скриншот ко 2 заданию](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(3).png)
+
+##### Часть 2
+№1
+![Скриншот к 1 заданию](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(5).png)
+
+№2
+![Скриншот ко 2 заданию](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(9).png)
+![](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(10).png)
+
+№3
+![](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(8).png)
+![](https://github.com/gerasimovaantoninaivanovna/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(7).png)
+
+###### Вывод:
